@@ -1,7 +1,9 @@
 ---
 layout: lecture
-title: "Why we are teaching this class"
+title: "Warom we deze les geven"
 ---
+
+Tijdens een traditionele opvoeding in Informatica, warschijnlijk zal je enkele vakken 
 
 During a traditional Computer Science education, chances are you will take
 plenty of classes that teach you advanced topics within CS, everything from
